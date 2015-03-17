@@ -1,5 +1,8 @@
 #Newport News, Virginia OSM Buildings Import
 
+![](https://raw.githubusercontent.com/jonahadkins/newportnews-OSM-imports/master/badnews.JPG)
+
+
 The City of Newport News GIS office graciously supplied shapefiles of building footprints and addresses upon request. 
 
 ###Pre-Processing 
